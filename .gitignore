@@ -1,0 +1,6 @@
+node_modules
+out
+.vscode-test
+# Ignore the packaged file
+*.vsix
+dist
